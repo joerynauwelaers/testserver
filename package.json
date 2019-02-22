@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "some simple api's hosting ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joery",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "prom-client": "^11.2.1"
+  }
+}
